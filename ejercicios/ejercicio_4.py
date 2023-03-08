@@ -1,7 +1,3 @@
-#pop (y insert )
-
-#o append y que elimine el primero
-
 class cola:
     def __init__(self, *args):
         self.lista = [*args]
