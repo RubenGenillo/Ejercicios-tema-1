@@ -1,4 +1,3 @@
-#quiero ponerle una opcion para que no tenga longitud maxima
 import os
 import platform
 def leer_texto(longitud_min=0, longitud_max=100, mensaje=None):
