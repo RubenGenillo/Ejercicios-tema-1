@@ -15,16 +15,6 @@ print("    El número mágico    ")
 print()
 
 
-#si quieres que salga luego ya sabes, (puedes cambiar y poner sys.exit() y el break)
-
-#pregunta si dentro los que no tengan menu no deben tener menu o si los menus tienen que ser bonitos
-
-
-#Los he llamado ejercicios
-
-#los programas de por si tienen para pararse al final? 
-
-
 def main():
     while True:
         limpiar_pantalla()
@@ -62,13 +52,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-#quieres jugar al numero magico? (si/no)
-
-
-
-
-#funcion que devuleva True si contiene false si quiere cerrarlo
